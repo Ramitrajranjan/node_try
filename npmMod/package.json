@@ -9,6 +9,7 @@
   "author": "Ramit Ranjan",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "validator": "^13.1.1"
   }
 }
